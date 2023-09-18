@@ -736,7 +736,7 @@ status = (error << 0) | (upgrade << 1)
 
 **path(长度: 3)**
 
-`j\n\n`
+`k\n\n`
 
 **data (长度: 1)**
 
